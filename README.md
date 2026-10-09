@@ -4,7 +4,7 @@ A critical review of Agbola, F. W., & Acupan, A. B. (2010). An empirical analysi
 
 | File | What it is |
 |---|---|
-| `Cataytay_Critical_Review_Deck.pptx` | Presentation deck (13 slides, with speaker notes) |
+| `Cataytay_Critical_Review_Deck.pptx` | Presentation deck on the USeP template (14 slides, with speaker notes) |
 | `Cataytay_Critical_Review_Paper.docx` | Written review paper (Word) |
 | `Cataytay_Critical_Review_Paper.md` | The same paper, readable on GitHub |
 
