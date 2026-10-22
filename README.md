@@ -4,6 +4,7 @@ A critical review of Agbola, F. W., & Acupan, A. B. (2010). An empirical analysi
 
 | File | What it is |
 |---|---|
+| `Cataytay_Critical_Review_Master_Document.docx` / `.pdf` | Master document: highlighted excerpts from the article paired with a concise, colour-coded critical review of each part |
 | `Cataytay_Critical_Review_Deck.pptx` | Presentation deck on the USeP template (14 slides, with speaker notes) |
 | `Cataytay_Critical_Review_One_Page.docx` | One-page written output: the paper's narrative in condensed form |
 | `Cataytay_Critical_Review_One_Page.md` | The same one-page review, readable on GitHub |
